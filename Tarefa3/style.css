@@ -1,0 +1,19 @@
+.header{
+  display: flex;
+  flex-flow: row nowrap;
+  position: sticky;
+  top: 0px;
+}
+
+.atalho{
+  width: 8em;
+  background-color: #add8e6;
+  padding: 1em;
+  margin: 1em;
+  border: 3px dashed black;
+  text-align: center;
+}
+
+.atalho:hover{
+  background-color: #c1e1ec
+}
